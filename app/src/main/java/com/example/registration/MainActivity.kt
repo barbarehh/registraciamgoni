@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
             }else if (!check.isChecked){
                 Toast.makeText(this, "გთხოვთ,დათანმხდეთ წესებს", Toast.LENGTH_SHORT).show()
             } else {
-                Toast.makeText(this, "თქვენ წარმატებით გაიარეთ რეგისტარცია, დებილო", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "თქვენ წარმატებით გაიარეთ რეგისტარცია", Toast.LENGTH_SHORT).show()
             }
 
 
